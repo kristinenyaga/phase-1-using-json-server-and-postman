@@ -14,15 +14,18 @@
       "title": "Third Article",
       "content": "Another example!",
       "id": 3
+    },
+    {
+      "title": "fourth Article",
+      "content": "Another example2!",
+      "id": 4
     }
   ],
-  "example": [
-    1,
-    2,
-    3
-  ],
-  "example2": {
-    "title": "fifth Article",
-    "content": "Another example!"
-  }
+  "cats": [
+    {
+      "name": "cool cat",
+      "description": "house cat",
+      "id": 1
+    }
+  ]
 }
